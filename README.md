@@ -1,7 +1,7 @@
 Implemented the New Spring Authorization server and tested it in Spring MVC (Simulating Microservices)
 
 Spring Authoirzation Server: 
-1)configuration/creating OAuth client/Spring security configuration
+1) Configuration/creating OAuth client/Spring security configuration
 2) Exchange Authoirzation code for JWT access Token with Postman
 
 Resource Server for Spring Authorization server:
